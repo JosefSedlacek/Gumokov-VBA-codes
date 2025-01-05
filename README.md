@@ -1,5 +1,5 @@
 # Aplikace Výkaz Odpracovaných Hodin
-Tento Repozitář slouží jako ukázka kódu ve VBA, který jsem použil pro správné fungování aplikace v MS Excel.  
+Soubor ``makra.bas`` slouží jako ukázka kódu ve VBA, který jsem použil pro správné fungování aplikace v MS Excel.  
 Aplikace obsahuje následující listy:  
 
 ### Časová osa - docházka

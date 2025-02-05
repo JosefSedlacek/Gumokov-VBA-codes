@@ -1,6 +1,6 @@
 # Gumokov - VBA
-
-Tento repository slouží jako skladiště aktualizačních a dalších VBA maker, která používám v práci. Projekty:
+---
+_Tento repository slouží jako skladiště aktualizačních a dalších VBA maker, která používám v práci. Projekty:_
 ---
 #### Polyvalence
 - `polyvalence-AVS-aktualizase.bas` - aktualizace dat ze SAP

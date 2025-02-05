@@ -1,6 +1,5 @@
 # Gumokov - VBA
----
-###### _Do tohoto repozitáře si ukládám VBA kódy, která používám v práci. Tyto VBA kódy slouží především pro aktualizace dat v PowerBI, která se stahují ze SAP, dále jsou tu různé útržky kódu, který je v různých excelových aplikacích. Projekty:_
+#### _Do tohoto repozitáře si ukládám VBA kódy, která používám v práci. Tyto VBA kódy slouží především pro aktualizace dat v PowerBI, která se stahují ze SAP, dále jsou tu různé útržky kódu, který je v různých excelových aplikacích. Projekty:_
 ---
 #### Polyvalence
 - `polyvalence-AVS-aktualizase.bas` - aktualizace dat ze SAP

@@ -173,6 +173,7 @@ session.FindById("wnd[0]/tbar[0]/btn[3]").Press
 
 Aktualizace.Range("F18").Value = "OK"
 
+'info o aktualizaci - datum a zaměstnanec
 Aktualizace.Range("AB6") = Date
 Aktualizace.Range("AB7") = Now
 Aktualizace.Range("AB8") = Environ("username")
